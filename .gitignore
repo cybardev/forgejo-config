@@ -1,0 +1,6 @@
+# dev shell
+.direnv
+.env
+
+# forgejo
+/data/
